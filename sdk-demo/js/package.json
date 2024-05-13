@@ -1,0 +1,15 @@
+{
+  "name": "sdk-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node examples/starIndex.js"
+  },
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@indexnetwork/sdk": "^0.0.9",
+    "@langchain/openai": "^0.0.28",
+    "uuid": "^9.0.1"
+  }
+}
